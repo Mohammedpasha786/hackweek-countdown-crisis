@@ -1,0 +1,101 @@
+{
+  "hackweekEndDate": "2025-07-21T23:59:59.000Z",
+  "hackweekStartDate": "2025-07-15T00:00:00.000Z",
+  "eventName": "COSC Hackweek 2025",
+  "eventDescription": "Join CBIT Open Source Community for an exciting week of coding, learning, and innovation. Build amazing projects, learn new technologies, and connect with fellow developers.",
+  "eventLocation": "CBIT Campus, Hyderabad",
+  "registrationOpen": true,
+  "registrationDeadline": "2025-07-10T23:59:59.000Z",
+  "maxParticipants": 500,
+  "eventTheme": "Innovation through Open Source",
+  "tracks": [
+    "Web Development",
+    "Mobile App Development", 
+    "AI/ML",
+    "DevOps & Cloud",
+    "Blockchain",
+    "IoT",
+    "Game Development",
+    "Open Source Contribution"
+  ],
+  "prizes": {
+    "totalPrizePool": "₹75,000",
+    "categories": {
+      "first": "₹25,000",
+      "second": "₹15,000", 
+      "third": "₹10,000",
+      "specialCategories": [
+        {
+          "name": "Best Open Source Project",
+          "prize": "₹10,000"
+        },
+        {
+          "name": "Most Innovative Solution",
+          "prize": "₹8,000"
+        },
+        {
+          "name": "People's Choice Award",
+          "prize": "₹7,000"
+        }
+      ]
+    }
+  },
+  "schedule": {
+    "day1": {
+      "date": "2025-07-15",
+      "events": [
+        "Opening Ceremony & Registration",
+        "Keynote Speech",
+        "Team Formation",
+        "Ideation Session"
+      ]
+    },
+    "day2-6": {
+      "dates": "2025-07-16 to 2025-07-20",
+      "events": [
+        "Daily Standup Meetings",
+        "Technical Workshops",
+        "Mentorship Sessions",
+        "Progress Reviews"
+      ]
+    },
+    "day7": {
+      "date": "2025-07-21",
+      "events": [
+        "Final Presentations",
+        "Project Judging",
+        "Award Ceremony",
+        "Networking Session"
+      ]
+    }
+  },
+  "sponsors": [
+    {
+      "name": "Title Sponsor",
+      "level": "Platinum",
+      "logo": "/sponsors/title-sponsor.png"
+    },
+    {
+      "name": "Tech Sponsor",
+      "level": "Gold", 
+      "logo": "/sponsors/tech-sponsor.png"
+    }
+  ],
+  "socialMedia": {
+    "hashtag": "#COSCHackweek2025",
+    "twitter": "@cbitosc",
+    "instagram": "@cbitosc",
+    "linkedin": "company/cbitosc"
+  },
+  "contact": {
+    "email": "hackweek@cbitosc.org",
+    "phone": "+91-XXX-XXX-XXXX",
+    "address": "CBIT, Gandipet, Hyderabad, Telangana 500075"
+  },
+  "requirements": {
+    "eligibility": "Open to all college students",
+    "teamSize": "2-4 members",
+    "registrationFee": "Free",
+    "prerequisites": "Basic programming knowledge recommended"
+  }
+}
