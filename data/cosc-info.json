@@ -1,0 +1,130 @@
+{
+  "about": {
+    "title": "CBIT Open Source Community",
+    "description": "COSC is a vibrant open source community based in CBIT, managed by passionate students and dedicated staff. We foster a culture of collaboration, innovation, and continuous learning through open source technologies. Our community provides a platform for students to explore, learn, and contribute to meaningful open source projects while building their technical skills and professional network.",
+    "established": "2020",
+    "mission": "To foster innovation, collaboration, and learning through open source technologies while building a strong community of developers and contributors.",
+    "vision": "To become the leading open source community in the region, empowering students to create impactful technology solutions.",
+    "location": "Chaitanya Bharathi Institute of Technology, Hyderabad",
+    "website": "https://cbitosc.github.io/",
+    "email": "contact@cbitosc.org"
+  },
+  "events": [
+    {
+      "name": "Hackweek 2025",
+      "description": "A comprehensive week-long event featuring intensive workshops, coding challenges, project presentations, and networking opportunities. Participants will work on real-world projects while learning from industry experts.",
+      "date": "July 15-21, 2025",
+      "type": "Hackathon",
+      "duration": "7 days",
+      "expectedParticipants": "500+",
+      "prizes": "₹50,000+ in prizes"
+    },
+    {
+      "name": "Hacktoberfest 2024",
+      "description": "Annual celebration of open source software with global participation. Contributors make meaningful contributions to open source projects while learning collaborative development practices.",
+      "date": "October 2024",
+      "type": "Contribution Event",
+      "duration": "1 month",
+      "contributions": "200+ PRs",
+      "participants": "150+ contributors"
+    },
+    {
+      "name": "Git & GitHub Workshop",
+      "description": "Comprehensive workshop covering version control, collaborative development, and best practices for open source contribution.",
+      "date": "Monthly",
+      "type": "Workshop",
+      "duration": "3 hours",
+      "level": "Beginner to Advanced"
+    },
+    {
+      "name": "Tech Talks Series",
+      "description": "Regular series featuring industry experts, alumni, and community members sharing insights on latest technologies and career guidance.",
+      "date": "Bi-weekly",
+      "type": "Educational",
+      "duration": "1-2 hours",
+      "topics": "AI/ML, Web Dev, DevOps, Mobile Dev"
+    }
+  ],
+  "technologies": [
+    "JavaScript",
+    "Python",
+    "React",
+    "Node.js",
+    "Git",
+    "Docker",
+    "Linux",
+    "MongoDB",
+    "PostgreSQL",
+    "TypeScript",
+    "Next.js",
+    "Express.js",
+    "Django",
+    "Flask",
+    "Redis",
+    "Kubernetes",
+    "AWS",
+    "Firebase"
+  ],
+  "achievements": [
+    "500+ Active Community Members",
+    "75+ Successful Open Source Projects",
+    "150+ Workshop & Events Conducted",
+    "50+ Hackathon Winners & Finalists",
+    "25+ Industry Partnerships",
+    "1000+ GitHub Contributions",
+    "300+ Students Mentored",
+    "15+ Technical Certifications Achieved"
+  ],
+  "projects": [
+    {
+      "name": "Campus Connect",
+      "description": "A comprehensive platform connecting students, faculty, and alumni for better communication and collaboration.",
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "status": "Active",
+      "contributors": 12
+    },
+    {
+      "name": "Event Management System",
+      "description": "Streamlined system for managing college events, registrations, and participant tracking.",
+      "technologies": ["Python", "Django", "PostgreSQL"],
+      "status": "Completed",
+      "contributors": 8
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Automated bot for code review and quality assurance in student projects.",
+      "technologies": ["Python", "GitHub API", "Docker"],
+      "status": "Active",
+      "contributors": 6
+    }
+  ],
+  "team": {
+    "leads": [
+      {
+        "name": "Community Lead",
+        "role": "Overall Community Management",
+        "responsibilities": ["Strategic Planning", "Community Growth", "Partnership Development"]
+      },
+      {
+        "name": "Technical Lead",
+        "role": "Technical Guidance & Mentorship",
+        "responsibilities": ["Code Reviews", "Technical Workshops", "Project Architecture"]
+      },
+      {
+        "name": "Events Lead",
+        "role": "Event Planning & Execution",
+        "responsibilities": ["Event Organization", "Logistics", "Speaker Coordination"]
+      }
+    ],
+    "totalMembers": 500,
+    "activeContributors": 125,
+    "mentors": 15
+  },
+  "resources": {
+    "documentation": "https://docs.cbitosc.org",
+    "github": "https://github.com/cbitosc",
+    "discord": "https://discord.gg/cbitosc",
+    "linkedin": "https://linkedin.com/company/cbitosc",
+    "twitter": "https://twitter.com/cbitosc"
+  }
+}
